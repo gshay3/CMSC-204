@@ -6,7 +6,7 @@ Each assignment demonstrates core data structures and algorithms including stack
 <br> <br>
 📂 Assignments Overview
 <br><br>
-🔹 Assignment 1: Password Checker Utility
+🔹 Assignment 1: Password Checker Utility <br>
 A validation system that ensures passwords meet strict security requirements using custom exceptions and utility methods.
 
 Features:
@@ -27,7 +27,7 @@ Regular expressions (Pattern, Matcher) <br>
 ArrayLists <br>
 Unit testing (JUnit) <br>
  <br> <br>
-🔹 Assignment 2: Stack, Queue, and Notation Converter
+🔹 Assignment 2: Stack, Queue, and Notation Converter <br>
 A data structures implementation project that builds generic stacks and queues and applies them to expression conversion and evaluation.
 
 Features:
@@ -48,7 +48,7 @@ Exception handling <br>
 Expression parsing and evaluation <br>
 Algorithm design <br>
  <br> <br>
-🔹 Assignment 3: Doubly Linked List & Sorted List
+🔹 Assignment 3: Doubly Linked List & Sorted List <br>
 An implementation of a doubly linked list with bidirectional traversal and a sorted extension.
 
 Features:
@@ -66,7 +66,7 @@ Iterators (ListIterator) <br>
 Generics and comparators <br>
 Inheritance and sorting logic <br>
  <br> <br>
-🔹 Assignment 4: Course Database (Hash Table Implementation)
+🔹 Assignment 4: Course Database (Hash Table Implementation) <br>
 A course management system that stores and retrieves course information using a hash table with chaining.
 
 Features:
@@ -87,7 +87,7 @@ File I/O <br>
 Comparable interface <br>
 Searching and sorting <br>
  <br> <br>
-🔹 Assignment 5: Morse Code Converter (Binary Tree)
+🔹 Assignment 5: Morse Code Converter (Binary Tree) <br>
 A tree-based application that converts Morse code into English text using a binary tree structure.
 
 Features:
@@ -106,7 +106,7 @@ Tree traversal (inorder) <br>
 File I/O <br>
 Data structure mapping <br>
  <br> <br>
-🔹 Assignment 6: Town Graph & Shortest Path (Dijkstra’s Algorithm)
+🔹 Assignment 6: Town Graph & Shortest Path (Dijkstra’s Algorithm) <br>
 A graph-based system that models towns and roads and computes shortest paths between locations.
 
 Features:
